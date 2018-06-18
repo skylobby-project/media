@@ -1,5 +1,7 @@
 # Propose media to be added to the website
 
+>Please type the answer to each prompt after the colon(:).
+
 *__Category__ (Voice/Chime/Button/Indicator):*
 
 *__Manufacturer__ (e.g. Schindler):*
